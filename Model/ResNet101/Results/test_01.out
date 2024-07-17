@@ -1,0 +1,606 @@
++----------------------------------------+
+| epoch:                               1 |
+| f1-score:                   0.15498880 |
+| accuracy:                          38% |
+| precision:                  0.17526129 |
+| recall:                     0.18642793 |
+| test loss:                  1.64421601 |
+| train loss:                 2.24252011 |
+| time spent (epoch):         0:02:45.19 |
+| time spent (total):         0:02:45.19 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                               2 |
+| f1-score:                   0.21680500 |
+| accuracy:                          51% |
+| precision:                  0.24145741 |
+| recall:                     0.23132745 |
+| test loss:                  1.21896413 |
+| train loss:                 1.83649019 |
+| time spent (epoch):         0:02:41.75 |
+| time spent (total):         0:05:26.94 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                               3 |
+| f1-score:                   0.26948264 |
+| accuracy:                          58% |
+| precision:                  0.30133856 |
+| recall:                     0.27971006 |
+| test loss:                  1.03181991 |
+| train loss:                 1.62710366 |
+| time spent (epoch):         0:02:41.76 |
+| time spent (total):         0:08:08.71 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                               4 |
+| f1-score:                   0.29528422 |
+| accuracy:                          60% |
+| precision:                  0.31721772 |
+| recall:                     0.31268657 |
+| test loss:                  0.95374389 |
+| train loss:                 1.45889946 |
+| time spent (epoch):         0:02:41.60 |
+| time spent (total):         0:10:50.32 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                               5 |
+| f1-score:                   0.31192046 |
+| accuracy:                          64% |
+| precision:                  0.35575048 |
+| recall:                     0.31458367 |
+| test loss:                  0.86751104 |
+| train loss:                 1.32426774 |
+| time spent (epoch):         0:02:42.86 |
+| time spent (total):         0:13:33.18 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                               6 |
+| f1-score:                   0.36269669 |
+| accuracy:                          65% |
+| precision:                  0.38195518 |
+| recall:                     0.39245982 |
+| test loss:                  0.82435347 |
+| train loss:                 1.19970004 |
+| time spent (epoch):         0:02:41.01 |
+| time spent (total):         0:16:14.20 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                               7 |
+| f1-score:                   0.35402042 |
+| accuracy:                          63% |
+| precision:                  0.36687687 |
+| recall:                     0.39164453 |
+| test loss:                  0.86773809 |
+| train loss:                 1.07392788 |
+| time spent (epoch):         0:02:40.35 |
+| time spent (total):         0:18:54.55 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                               8 |
+| f1-score:                   0.37114424 |
+| accuracy:                          67% |
+| precision:                  0.41901864 |
+| recall:                     0.37774266 |
+| test loss:                  0.77705657 |
+| train loss:                 0.94630081 |
+| time spent (epoch):         0:02:42.65 |
+| time spent (total):         0:21:37.21 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                               9 |
+| f1-score:                   0.37868391 |
+| accuracy:                          65% |
+| precision:                  0.40338242 |
+| recall:                     0.39822296 |
+| test loss:                  0.78134822 |
+| train loss:                 0.82443207 |
+| time spent (epoch):         0:02:41.41 |
+| time spent (total):         0:24:18.62 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              10 |
+| f1-score:                   0.40257560 |
+| accuracy:                          69% |
+| precision:                  0.43487265 |
+| recall:                     0.42451405 |
+| test loss:                  0.72977361 |
+| train loss:                 0.70166507 |
+| time spent (epoch):         0:02:43.04 |
+| time spent (total):         0:27:01.67 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              11 |
+| f1-score:                   0.41208742 |
+| accuracy:                          68% |
+| precision:                  0.43469484 |
+| recall:                     0.43632396 |
+| test loss:                  0.73523919 |
+| train loss:                 0.54914362 |
+| time spent (epoch):         0:02:40.92 |
+| time spent (total):         0:29:42.60 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              12 |
+| f1-score:                   0.40073651 |
+| accuracy:                          66% |
+| precision:                  0.41720871 |
+| recall:                     0.43718684 |
+| test loss:                  0.77188894 |
+| train loss:                 0.46764118 |
+| time spent (epoch):         0:02:40.99 |
+| time spent (total):         0:32:23.59 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              13 |
+| f1-score:                   0.39807912 |
+| accuracy:                          67% |
+| precision:                  0.41941249 |
+| recall:                     0.42144809 |
+| test loss:                  0.77091125 |
+| train loss:                 0.38370933 |
+| time spent (epoch):         0:02:41.85 |
+| time spent (total):         0:35:05.44 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              14 |
+| f1-score:                   0.38649023 |
+| accuracy:                          67% |
+| precision:                  0.41775600 |
+| recall:                     0.40181424 |
+| test loss:                  0.76661583 |
+| train loss:                 0.32011885 |
+| time spent (epoch):         0:02:41.08 |
+| time spent (total):         0:37:46.53 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              15 |
+| f1-score:                   0.40960041 |
+| accuracy:                          69% |
+| precision:                  0.43017926 |
+| recall:                     0.43791498 |
+| test loss:                  0.74625348 |
+| train loss:                 0.25965816 |
+| time spent (epoch):         0:02:41.18 |
+| time spent (total):         0:40:27.71 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              16 |
+| f1-score:                   0.39155256 |
+| accuracy:                          68% |
+| precision:                  0.41423406 |
+| recall:                     0.41469795 |
+| test loss:                  0.76691759 |
+| train loss:                 0.21290577 |
+| time spent (epoch):         0:02:41.15 |
+| time spent (total):         0:43:08.87 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              17 |
+| f1-score:                   0.38482045 |
+| accuracy:                          65% |
+| precision:                  0.40213448 |
+| recall:                     0.41429905 |
+| test loss:                  0.85718605 |
+| train loss:                 0.17548368 |
+| time spent (epoch):         0:02:40.67 |
+| time spent (total):         0:45:49.55 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              18 |
+| f1-score:                   0.41050383 |
+| accuracy:                          68% |
+| precision:                  0.42469630 |
+| recall:                     0.44615911 |
+| test loss:                  0.79321602 |
+| train loss:                 0.13653654 |
+| time spent (epoch):         0:02:42.03 |
+| time spent (total):         0:48:31.58 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              19 |
+| f1-score:                   0.42388136 |
+| accuracy:                          69% |
+| precision:                  0.44735079 |
+| recall:                     0.44745171 |
+| test loss:                  0.76916649 |
+| train loss:                 0.10982482 |
+| time spent (epoch):         0:02:41.06 |
+| time spent (total):         0:51:12.65 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              20 |
+| f1-score:                   0.40852846 |
+| accuracy:                          69% |
+| precision:                  0.44874402 |
+| recall:                     0.41652971 |
+| test loss:                  0.77942460 |
+| train loss:                 0.08821168 |
+| time spent (epoch):         0:02:40.94 |
+| time spent (total):         0:53:53.60 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              21 |
+| f1-score:                   0.40538942 |
+| accuracy:                          68% |
+| precision:                  0.42901505 |
+| recall:                     0.43352772 |
+| test loss:                  0.79981933 |
+| train loss:                 0.06752789 |
+| time spent (epoch):         0:02:41.15 |
+| time spent (total):         0:56:34.76 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              22 |
+| f1-score:                   0.40693438 |
+| accuracy:                          69% |
+| precision:                  0.43925585 |
+| recall:                     0.42649694 |
+| test loss:                  0.79257294 |
+| train loss:                 0.05613670 |
+| time spent (epoch):         0:02:41.75 |
+| time spent (total):         0:59:16.52 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              23 |
+| f1-score:                   0.40575224 |
+| accuracy:                          69% |
+| precision:                  0.44147517 |
+| recall:                     0.41410124 |
+| test loss:                  0.80815918 |
+| train loss:                 0.04891000 |
+| time spent (epoch):         0:02:41.12 |
+| time spent (total):         1:01:57.65 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              24 |
+| f1-score:                   0.38852576 |
+| accuracy:                          66% |
+| precision:                  0.40372223 |
+| recall:                     0.42507045 |
+| test loss:                  0.88484834 |
+| train loss:                 0.03785912 |
+| time spent (epoch):         0:02:40.83 |
+| time spent (total):         1:04:38.48 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              25 |
+| f1-score:                   0.40443071 |
+| accuracy:                          69% |
+| precision:                  0.43500137 |
+| recall:                     0.41821862 |
+| test loss:                  0.80138635 |
+| train loss:                 0.03410947 |
+| time spent (epoch):         0:02:41.43 |
+| time spent (total):         1:07:19.92 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              26 |
+| f1-score:                   0.40334706 |
+| accuracy:                          69% |
+| precision:                  0.43835792 |
+| recall:                     0.41736121 |
+| test loss:                  0.82994920 |
+| train loss:                 0.02855995 |
+| time spent (epoch):         0:02:40.74 |
+| time spent (total):         1:10:00.66 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              27 |
+| f1-score:                   0.40116764 |
+| accuracy:                          68% |
+| precision:                  0.42575806 |
+| recall:                     0.42104384 |
+| test loss:                  0.83862585 |
+| train loss:                 0.02732759 |
+| time spent (epoch):         0:02:41.76 |
+| time spent (total):         1:12:42.43 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              28 |
+| f1-score:                   0.41124959 |
+| accuracy:                          68% |
+| precision:                  0.43645095 |
+| recall:                     0.43867393 |
+| test loss:                  0.83875507 |
+| train loss:                 0.02303426 |
+| time spent (epoch):         0:02:40.51 |
+| time spent (total):         1:15:22.94 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              29 |
+| f1-score:                   0.40144113 |
+| accuracy:                          69% |
+| precision:                  0.42724642 |
+| recall:                     0.41822220 |
+| test loss:                  0.83739699 |
+| train loss:                 0.02262909 |
+| time spent (epoch):         0:02:40.17 |
+| time spent (total):         1:18:03.12 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              30 |
+| f1-score:                   0.40339142 |
+| accuracy:                          69% |
+| precision:                  0.43838910 |
+| recall:                     0.41534271 |
+| test loss:                  0.83468117 |
+| train loss:                 0.02110957 |
+| time spent (epoch):         0:02:40.61 |
+| time spent (total):         1:20:43.73 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              31 |
+| f1-score:                   0.40286353 |
+| accuracy:                          68% |
+| precision:                  0.42058092 |
+| recall:                     0.42615844 |
+| test loss:                  0.83688809 |
+| train loss:                 0.01115266 |
+| time spent (epoch):         0:02:41.06 |
+| time spent (total):         1:23:24.79 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              32 |
+| f1-score:                   0.40718989 |
+| accuracy:                          70% |
+| precision:                  0.42899001 |
+| recall:                     0.42488633 |
+| test loss:                  0.81383608 |
+| train loss:                 0.01095900 |
+| time spent (epoch):         0:02:42.09 |
+| time spent (total):         1:26:06.89 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              33 |
+| f1-score:                   0.41241302 |
+| accuracy:                          69% |
+| precision:                  0.44001221 |
+| recall:                     0.43017274 |
+| test loss:                  0.82769479 |
+| train loss:                 0.00805287 |
+| time spent (epoch):         0:02:41.38 |
+| time spent (total):         1:28:48.27 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              34 |
+| f1-score:                   0.41173501 |
+| accuracy:                          69% |
+| precision:                  0.43143830 |
+| recall:                     0.44129865 |
+| test loss:                  0.84522957 |
+| train loss:                 0.00864897 |
+| time spent (epoch):         0:02:42.46 |
+| time spent (total):         1:31:30.74 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              35 |
+| f1-score:                   0.41340814 |
+| accuracy:                          70% |
+| precision:                  0.44516272 |
+| recall:                     0.42563081 |
+| test loss:                  0.82347684 |
+| train loss:                 0.00844473 |
+| time spent (epoch):         0:02:41.82 |
+| time spent (total):         1:34:12.56 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              36 |
+| f1-score:                   0.41210578 |
+| accuracy:                          70% |
+| precision:                  0.43402394 |
+| recall:                     0.42816979 |
+| test loss:                  0.83435888 |
+| train loss:                 0.00745675 |
+| time spent (epoch):         0:02:40.71 |
+| time spent (total):         1:36:53.28 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              37 |
+| f1-score:                   0.41843159 |
+| accuracy:                          70% |
+| precision:                  0.45028000 |
+| recall:                     0.43704574 |
+| test loss:                  0.83777600 |
+| train loss:                 0.00659368 |
+| time spent (epoch):         0:02:40.84 |
+| time spent (total):         1:39:34.12 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              38 |
+| f1-score:                   0.41239953 |
+| accuracy:                          68% |
+| precision:                  0.42794445 |
+| recall:                     0.44031257 |
+| test loss:                  0.85809687 |
+| train loss:                 0.00698050 |
+| time spent (epoch):         0:02:40.91 |
+| time spent (total):         1:42:15.04 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              39 |
+| f1-score:                   0.41539304 |
+| accuracy:                          70% |
+| precision:                  0.44827214 |
+| recall:                     0.43135169 |
+| test loss:                  0.86267794 |
+| train loss:                 0.00571749 |
+| time spent (epoch):         0:02:40.99 |
+| time spent (total):         1:44:56.04 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              40 |
+| f1-score:                   0.40685780 |
+| accuracy:                          70% |
+| precision:                  0.44369096 |
+| recall:                     0.41593417 |
+| test loss:                  0.84245821 |
+| train loss:                 0.00750475 |
+| time spent (epoch):         0:02:41.39 |
+| time spent (total):         1:47:37.43 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              41 |
+| f1-score:                   0.40268535 |
+| accuracy:                          69% |
+| precision:                  0.43297932 |
+| recall:                     0.41727051 |
+| test loss:                  0.86003000 |
+| train loss:                 0.00820838 |
+| time spent (epoch):         0:02:40.81 |
+| time spent (total):         1:50:18.24 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              42 |
+| f1-score:                   0.42226920 |
+| accuracy:                          70% |
+| precision:                  0.46222632 |
+| recall:                     0.43022925 |
+| test loss:                  0.84744552 |
+| train loss:                 0.00679294 |
+| time spent (epoch):         0:02:40.97 |
+| time spent (total):         1:52:59.22 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              43 |
+| f1-score:                   0.41571813 |
+| accuracy:                          70% |
+| precision:                  0.44543191 |
+| recall:                     0.43298494 |
+| test loss:                  0.85201265 |
+| train loss:                 0.00594824 |
+| time spent (epoch):         0:02:40.96 |
+| time spent (total):         1:55:40.19 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              44 |
+| f1-score:                   0.40848171 |
+| accuracy:                          69% |
+| precision:                  0.44589779 |
+| recall:                     0.41617363 |
+| test loss:                  0.85687998 |
+| train loss:                 0.00417138 |
+| time spent (epoch):         0:02:41.20 |
+| time spent (total):         1:58:21.39 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              45 |
+| f1-score:                   0.40555696 |
+| accuracy:                          70% |
+| precision:                  0.43696901 |
+| recall:                     0.41677848 |
+| test loss:                  0.86216771 |
+| train loss:                 0.00540496 |
+| time spent (epoch):         0:02:41.55 |
+| time spent (total):         2:01:02.94 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              46 |
+| f1-score:                   0.42327780 |
+| accuracy:                          70% |
+| precision:                  0.45142472 |
+| recall:                     0.44512678 |
+| test loss:                  0.86576750 |
+| train loss:                 0.00415707 |
+| time spent (epoch):         0:02:40.96 |
+| time spent (total):         2:03:43.91 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              47 |
+| f1-score:                   0.41654484 |
+| accuracy:                          70% |
+| precision:                  0.43834119 |
+| recall:                     0.44062342 |
+| test loss:                  0.85309801 |
+| train loss:                 0.00439733 |
+| time spent (epoch):         0:02:40.72 |
+| time spent (total):         2:06:24.64 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              48 |
+| f1-score:                   0.42451743 |
+| accuracy:                          68% |
+| precision:                  0.44275068 |
+| recall:                     0.45013147 |
+| test loss:                  0.88602722 |
+| train loss:                 0.00631164 |
+| time spent (epoch):         0:02:40.99 |
+| time spent (total):         2:09:05.63 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              49 |
+| f1-score:                   0.41623462 |
+| accuracy:                          69% |
+| precision:                  0.44318144 |
+| recall:                     0.43912951 |
+| test loss:                  0.88831350 |
+| train loss:                 0.00462278 |
+| time spent (epoch):         0:02:40.87 |
+| time spent (total):         2:11:46.51 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              50 |
+| f1-score:                   0.41010588 |
+| accuracy:                          69% |
+| precision:                  0.44071857 |
+| recall:                     0.42475545 |
+| test loss:                  0.88428331 |
+| train loss:                 0.00396294 |
+| time spent (epoch):         0:02:40.62 |
+| time spent (total):         2:14:27.14 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              51 |
+| f1-score:                   0.42166701 |
+| accuracy:                          68% |
+| precision:                  0.44665685 |
+| recall:                     0.44473753 |
+| test loss:                  0.92948920 |
+| train loss:                 0.00401269 |
+| time spent (epoch):         0:02:41.87 |
+| time spent (total):         2:17:09.02 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              52 |
+| f1-score:                   0.41284917 |
+| accuracy:                          70% |
+| precision:                  0.43785624 |
+| recall:                     0.42958552 |
+| test loss:                  0.87190758 |
+| train loss:                 0.00559082 |
+| time spent (epoch):         0:02:40.71 |
+| time spent (total):         2:19:49.73 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              53 |
+| f1-score:                   0.42278681 |
+| accuracy:                          70% |
+| precision:                  0.44841750 |
+| recall:                     0.44577626 |
+| test loss:                  0.85980566 |
+| train loss:                 0.00329299 |
+| time spent (epoch):         0:02:40.77 |
+| time spent (total):         2:22:30.50 |
++----------------------------------------+
++----------------------------------------+
+| epoch:                              54 |
+| f1-score:                   0.41753989 |
+| accuracy:                          69% |
+| precision:                  0.45171834 |
+| recall:                     0.43368933 |
+| test loss:                  0.86905090 |
+| train loss:                 0.00297467 |
+| time spent (epoch):         0:02:40.67 |
+| time spent (total):         2:25:11.18 |
++----------------------------------------+
+Traceback (most recent call last):
+  File "/home/aicri/DCC2022/jaehyun/ResNet101/test_01.py", line 77, in <module>
+    trainer.train(
+  File "/home/aicri/DCC2022/jaehyun/ResNet101/../train.py", line 77, in train
+    loss.backward()
+  File "/home/aicri/.local/lib/python3.10/site-packages/torch/_tensor.py", line 396, in backward
+    torch.autograd.backward(self, gradient, retain_graph, create_graph, inputs=inputs)
+  File "/home/aicri/.local/lib/python3.10/site-packages/torch/autograd/__init__.py", line 173, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+  File "/home/aicri/.local/lib/python3.10/site-packages/torch/utils/data/_utils/signal_handling.py", line 66, in handler
+    _error_if_any_worker_fails()
+RuntimeError: DataLoader worker (pid 677923) is killed by signal: Killed. 
