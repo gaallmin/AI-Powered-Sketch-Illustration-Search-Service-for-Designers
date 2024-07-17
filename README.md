@@ -1,5 +1,5 @@
 # AI-Powered-Sketch-Illustration-Search-Service-for-Designers
-![](./prize.png)<br/>
+<img src="https://github.com/gaallmin/AI-Powered-Sketch-Illustration-Search-Service-for-Designers/blob/main/prize.jpg" width="300"/>
 
 ## Introduction 
 This project, which secured second place in a national data hackathon organized by the Ministry of Science and ICT of Korea, aims to develop an AI service for efficiently searching sketch illustrations, supporting designers in the growing design industry. We created an effective classifier for illustrations drawn using computer tools.
